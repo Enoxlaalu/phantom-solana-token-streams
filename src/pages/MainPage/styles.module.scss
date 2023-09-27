@@ -1,0 +1,10 @@
+.page {
+    display: grid;
+    grid-row-gap: 16px;
+    padding: 24px;
+    justify-items: start;
+}
+
+.walletButton {
+    justify-self: end;
+}
